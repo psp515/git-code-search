@@ -11,7 +11,7 @@ It listens on localhost only and runs while the application is running.
 
 Tools: 
 - `list_repositories`
-- `get_current_branch` (the branch selected in the Git Code Search UI; pass it as `branch` to the search tools, which default to `HEAD`)
+- `get_current_branch`
 - `search_file_content`
 - `search_commit_messages`
 - `get_file_content`
